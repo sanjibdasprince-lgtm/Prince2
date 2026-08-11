@@ -1,8 +1,8 @@
-{
-    "name": "Cloudstream providers repository",
-    "description": "Cloudstream extension Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
-    ]
+﻿{
+  "name": "Prince2",
+  "description": "Prince CloudStream Extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/master/plugins.json"
+  ]
 }
