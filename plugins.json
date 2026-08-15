@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
         "jarFileSize": 49791,
@@ -110,5 +110,27 @@
         "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/YoutubeProvider.cs3",
         "name": "YoutubeProvider",
         "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mlhbd.fun&sz=%size%",
+        "jarFileSize": 28873,
+        "fileHash": "sha256-e88b8f7a4a1c2cfb4565ab6da4b1d2259924c15cd21603589621607a4fa4aaf6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sanjibdasprince-lgtm/Prince2",
+        "fileSize": 8900,
+        "status": 1,
+        "authors": [
+            "Sanjib Das"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 4,
+        "internalName": "PrinceProvider",
+        "jarUrl": "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/builds/PrinceProvider.jar",
+        "description": "Watch movies from Prince",
+        "url": "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/builds/PrinceProvider.cs3",
+        "name": "PrinceProvider",
+        "jarHash": "sha256-564e88b761f2198ea4bf19ba63bd8e8dd4eb8b4362d5b24341bac95eb0834f49"
     }
 ]
