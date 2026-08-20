@@ -1,0 +1,8 @@
+﻿{
+  "name": "Prince2",
+  "description": "Prince CloudStream Extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/builds/plugins.json"
+  ]
+}
