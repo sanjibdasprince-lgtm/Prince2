@@ -1,22 +1,20 @@
-﻿[
-  {
-    "url": "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/builds/PrinceProvider.cs3",
-    "status": 1,
-    "version": 5,
-    "apiVersion": 1,
-    "name": "PrinceProvider",
-    "internalName": "PrinceProvider",
-    "authors": [
-      "Sanjib Das"
-    ],
-    "description": "MLHBD movie provider",
-    "repositoryUrl": "https://github.com/sanjibdasprince-lgtm/Prince2",
-    "tvTypes": [
-      "Movie"
-    ],
-    "language": "bn",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=mlhbd.app&sz=%size%",
-    "fileSize": 10083,
-    "fileHash": "sha256-03b92b67df7c0849f1ec5361dcd12615a301e2d2299c6d81f6f1e0b9ff4720dd"
-  }
-]
+﻿{
+    "url":  "https://raw.githubusercontent.com/sanjibdasprince-lgtm/Prince2/builds/PrinceProvider.cs3",
+    "status":  1,
+    "version":  6,
+    "apiVersion":  1,
+    "name":  "PrinceProvider",
+    "internalName":  "PrinceProvider",
+    "authors":  [
+                    "Sanjib Das"
+                ],
+    "description":  "MLHBD movie provider",
+    "repositoryUrl":  "https://github.com/sanjibdasprince-lgtm/Prince2",
+    "tvTypes":  [
+                    "Movie"
+                ],
+    "language":  "bn",
+    "iconUrl":  "https://www.google.com/s2/favicons?domain=mlhbd.pro\u0026sz=%size%",
+    "fileSize":  9012,
+    "fileHash":  "sha256-94a2ea178bd33ad486e5c1fc49ea5030e43837494f98b15191570932f798f995"
+}
